@@ -41,7 +41,7 @@ public class PosterManager {
         for (int i = 0; i < reversed.length; i++) {
             reversed[i] = items[items.length - 1 - i];
         }
-        return reversed;
+        return reversed
 
     }
 
