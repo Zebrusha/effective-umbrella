@@ -56,6 +56,6 @@ public class PosterTest {
         PosterService[] actual = repo.findLast();
 
 
-        Assertions.assertArrayEquals(expected, actual)
+        Assertions.assertArrayEquals(expected, actual);
     }
 }
