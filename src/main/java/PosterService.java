@@ -3,7 +3,7 @@ public class PosterService {
 
     public PosterService(String nameMuvie) {
 
-        this.nameMuvie = nameMuvie
+        this.nameMuvie = nameMuvie;
     }
 
 
